@@ -6,7 +6,7 @@ This project is tested with BrowserStack.
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Artificial-Intelligence-Projects
+# Web-based-Terminal
 
 Collection of Artificial Intelligence projects realised by me. Some of these topics have been covered in my personal blog: <br>
 
